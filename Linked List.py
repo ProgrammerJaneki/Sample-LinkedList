@@ -76,3 +76,6 @@ class LinkedList:
 				print(current_node.data, end = " => ")
 				current_node = current_node.nextt
 			print()
+			
+			
+			
